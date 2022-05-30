@@ -2,10 +2,13 @@
 
 Hello,
 
-This is one of my first application/game that I've had created.
+This is my first game that I've created.
 
-In order to play it, you need Visual Studio 2019.
+In order to play, you need to download the folder and just click on the "Snake.exe".
 
-To play the game, click on "Snake.sln" to open it, after that, click on the play button. 
+You will have the instructions in the beggining.
+To start the game - PRESS  " ENTER " 
+To pause the game - PRESS " SPACE " 
+For directions, use the arrows on your keyboard. 
 
 Enjoy! :) 
